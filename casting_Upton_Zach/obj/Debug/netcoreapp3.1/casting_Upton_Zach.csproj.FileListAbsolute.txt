@@ -1,0 +1,13 @@
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\bin\Debug\netcoreapp3.1\casting_Upton_Zach.exe
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\bin\Debug\netcoreapp3.1\casting_Upton_Zach.deps.json
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\bin\Debug\netcoreapp3.1\casting_Upton_Zach.runtimeconfig.json
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\bin\Debug\netcoreapp3.1\casting_Upton_Zach.runtimeconfig.dev.json
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\bin\Debug\netcoreapp3.1\casting_Upton_Zach.dll
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\bin\Debug\netcoreapp3.1\casting_Upton_Zach.pdb
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\obj\Debug\netcoreapp3.1\casting_Upton_Zach.csproj.AssemblyReference.cache
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\obj\Debug\netcoreapp3.1\casting_Upton_Zach.AssemblyInfoInputs.cache
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\obj\Debug\netcoreapp3.1\casting_Upton_Zach.AssemblyInfo.cs
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\obj\Debug\netcoreapp3.1\casting_Upton_Zach.csproj.CoreCompileInputs.cache
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\obj\Debug\netcoreapp3.1\casting_Upton_Zach.dll
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\obj\Debug\netcoreapp3.1\casting_Upton_Zach.pdb
+C:\Users\zachary.upton\source\repos\casting_Upton_Zach\casting_Upton_Zach\obj\Debug\netcoreapp3.1\casting_Upton_Zach.genruntimeconfig.cache
